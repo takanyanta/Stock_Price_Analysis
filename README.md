@@ -1,2 +1,3 @@
 # Stock_Price_Analysis
-Using AutoEncoder
+## This code is for predicting the anomaly of stock price.
+## However, it might be failed to except Nikkei 225...
