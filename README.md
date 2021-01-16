@@ -6,7 +6,7 @@
 
 ## Used technique
 * AutoEncoder
-
+![Extract the frame](https://github.com/takanyanta/Stock_Price_Analysis/blob/main/pic1.png "process1")
 
 ## Conclustion
 
