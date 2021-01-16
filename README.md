@@ -6,7 +6,14 @@
 
 ## Used technique
 * AutoEncoder
+
 ![Extract the frame](https://github.com/takanyanta/Stock_Price_Analysis/blob/main/pic1.png "process1")
+
+## Preprocessing Data Method
+* Convert Time Series Data to Series length Data
+
+![Extract the frame](https://github.com/takanyanta/Stock_Price_Analysis/blob/main/pic2.png "process1")
+
 
 ## Conclustion
 
