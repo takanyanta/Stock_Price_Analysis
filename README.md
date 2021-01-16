@@ -27,3 +27,7 @@
 
 ## Conclustion
 * It is failed for predicting the anomality, excpet both Nikkei225 and Marubeni.
+
+![Extract the frame](https://github.com/takanyanta/Stock_Price_Analysis/blob/main/N225.png "process1")
+
+![Extract the frame](https://github.com/takanyanta/Stock_Price_Analysis/blob/main/marubeni.png "process1")
