@@ -5,7 +5,7 @@
 * To predict the anomaly of stock price changes
 
 ## Used technique
-
+* AutoEncoder
 
 
 ## Conclustion
