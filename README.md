@@ -5,7 +5,7 @@
 * To predict the anomaly of stock price changes
 
 ## Used technique
-* AutoEncoder
+* LSTM AutoEncoder
 
 ![Extract the frame](https://github.com/takanyanta/Stock_Price_Analysis/blob/main/pic1.png "process1")
 
